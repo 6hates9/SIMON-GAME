@@ -26,4 +26,4 @@ Try the game here: [Simon Game Live](https://6hates9.github.io/SIMON-GAME/)
 ## 💻 How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/6hates9/SIMON-GAME.git
