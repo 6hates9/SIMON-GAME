@@ -6,7 +6,7 @@ Test your memory by following the color sequence and try to get the highest scor
 ---
 
 ## 🔗 Play Online
-Try the game here: [Simon Game Live]((https://6hates9.github.io/SIMON-GAME/))
+Try the game here: [Simon Game Live](https://6hates9.github.io/SIMON-GAME/)
 
 ---
 
